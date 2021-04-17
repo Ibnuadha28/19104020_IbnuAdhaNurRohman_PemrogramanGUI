@@ -1,1 +1,5 @@
-# 19104020_IbnuAdhaNurRohman_PemrogramanGUI
+# NIM   : 19104020
+# Nama  : Ibnu Adha Nur Rohman
+# Kelas : SE03A
+
+## Repositori ini berisi tentang tugas teori dan praktikum GUI
